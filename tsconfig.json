@@ -4,7 +4,7 @@
         "sourceMap": true,
         "forceConsistentCasingInFileNames": true,
 		"noImplicitReturns": true,
-		"noImplicitThis": false,
+		"noImplicitThis": true,
 		"noImplicitAny": true,
 		"strictNullChecks": true,
 		"downlevelIteration": true
