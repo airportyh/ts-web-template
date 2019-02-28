@@ -1,1 +1,1 @@
-[K$ 
+npx webpack-dev-server
