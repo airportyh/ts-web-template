@@ -1,13 +1,0 @@
-[37;40mnode-pre-gyp[0m [0m[30;43mWARN[0m [0m[35mUsing needle for node-pre-gyp https download[0m 
-[0m[fsevents] Success: "/Users/airportyh/Home/DriveBy/ts-web-template/node_modules/fsevents/lib/binding/Release/node-v64-darwin-x64/fse.node" is installed via remote
-[?25l⸨[7m            [27m[90m░░░░░░[0m⸩ ⠸ install:tty-browserify: [32min[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠸ postinstall:webpack-cli: [7ms[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠧ postinstall:ajv-keywords: [32m[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠴ postinstall:ansi-regex: [32min[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ postinstall:collection-vis[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠸ postinstall:once: [32minfo[0m [35mlif[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠋ postinstall: [32minfo[0m [35mlifecycl[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠙ postinstall: [32minfo[0m [35mlifecycl[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠸ postinstall: [32minfo[0m [35mlifecycl[0m[K[K[?25h[37;40mnpm[0m [0m[34;40mnotice[0m[35m[0m created a lockfile as package-lock.json. You should commit this file.
-[0m[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m ts-web-template@1.0.0 No description
-[0m[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m ts-web-template@1.0.0 No repository field.
-[0m
-+ webpack-cli@3.2.3
-+ webpack-dev-server@3.2.1
-+ webpack@4.29.6
-added 596 packages from 322 contributors and audited 8673 packages in 24.01s
-found [92m0[0m vulnerabilities
-
-[?25l⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [7msill[0m [35minstall[0m[0m[K[K[?25h$ 
