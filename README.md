@@ -4,9 +4,9 @@ This is a bare-bones TypeScript web project template.
 
 If you:
 
-1. Like TypeScript (*TS*) or want to learn and/or experiment with TS.
-2. Want to write code for the browser using TS.
-3. Do not care to use a framework.
+1. Like TypeScript (*TS*) or want to learn and/or experiment with TS
+2. Want to write code for the browser using TS
+3. Do not care to use a framework
 
 Then this template is perfect for you!!
 
