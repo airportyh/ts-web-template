@@ -1,9 +1,1 @@
-⸨[7m            [27m[90m░░░░░░[0m⸩ ⠴ postinstall: [32minfo[0m [35mlifecy[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [32minfo[0m [35mlifecy[0m[K⸨[7m            [27m[90m░░░░░░[0m⸩ ⠇ postinstall: [32minfo[0m [35mlifecy[0m[K[K[?25h[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m ts-web-template@1.0.0 No description
-[0m[37;40mnpm[0m [0m[30;43mWARN[0m[35m[0m ts-web-template@1.0.0 No repository field.
-[0m
-+ ts-loader@5.3.3
-+ typescript@3.3.3333
-added 2 packages from 3 contributors and audited 9682 packages in 6.666s
-found [92m0[0m vulnerabilities
-
-$ 
+[K$ 
