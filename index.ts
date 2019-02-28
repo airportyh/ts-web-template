@@ -1,4 +1,4 @@
 const blah = 1;
-function f(x: number, y) {
+function f(x: number, y: string) {
     return x + y;
 }
