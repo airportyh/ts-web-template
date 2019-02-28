@@ -1,1 +1,1 @@
-^C$ 
+npx webpack-dev-server
