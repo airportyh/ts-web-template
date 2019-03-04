@@ -5,8 +5,8 @@
 		"forceConsistentCasingInFileNames": true,
 		"noImplicitReturns": true,
 		"noImplicitThis": true,
-		"noImplicitAny": true,
-		"strictNullChecks": true,
+		"noImplicitAny": false,
+		"strictNullChecks": false,
 		"downlevelIteration": true
   }
 }
